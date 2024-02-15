@@ -21,7 +21,7 @@ function UserCard({ user }) {
 
   let backgroundColor;
   let textColor = 'black';
-  if (hair_color.toLowerCase() === 'blonde') {
+  if (hair_color.toLowerCase() === 'blond') {
     backgroundColor = 'yellow';
   } else {
     backgroundColor = hair_color;
