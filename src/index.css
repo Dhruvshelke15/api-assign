@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.app{
+  padding: 20px;
+  text-align: center;
+}
+
+.user-card {
+  width: 300px;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.search-box {
+  outline: none;
+  border-color: #007bff;
+  padding: 8px;
+  border-radius: 15px;
+}
